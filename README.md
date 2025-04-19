@@ -3,6 +3,21 @@ Contains URLs of my Testnet Transactions
 --------------------------------------------------------
 SmartContracts deployed on Sepolia Testnet [yyyymmdd]
 --------------------------------------------------------
+[20250419] Using Remix // Time based Automation contract deploymnet using Chainlink Automation
+	{
+		status	0x1 Transaction mined and execution succeed
+		transaction hash	0xc8ad82089ad69814d751e0f4649280ec785c78491213a6ef8c9acc4257400e5f
+		block hash	0x5cf16d3054cdf01fba3495da11a91e949d12cf597def2c8f87c59a65b63e8c74
+		block number	3
+		contract address	0xf8e81D47203A594245E36C48e151709F0C19fBe8
+		from	0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+		to	TimeBased.(constructor)
+		gas	141873 gas
+		transaction cost	123367 gas 
+		execution cost	65315 gas 
+		input	0x608...a0033
+	}
+ 
 [20250418]: Using Remix //Calling Price Data Feeds from Chainlink libraries to fund my 'TokenShop.sol' contract
 
 	{
